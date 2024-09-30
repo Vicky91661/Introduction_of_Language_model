@@ -1,0 +1,17 @@
+matplotlib
+streamlit
+
+python==3.10.14 
+pandas==2.2.2
+tensorflow==2.10.0 
+numpy==1.26.4
+scikit-learn
+tensorboard 2.10.*
+keras==2.10.0
+python-dotenv
+langchain_community
+pypdf
+bs4
+arxiv
+pymupdf
+langchain-text-splitters
