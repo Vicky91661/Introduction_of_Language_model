@@ -16,3 +16,6 @@ arxiv
 pymupdf
 langchain-text-splitters
 lxml
+huggingface_hub
+sentence_transformers
+langchain_huggingface
